@@ -1,3 +1,9 @@
+---
+layout: page
+title: Test new page
+description: test new page with content
+---
+
 Org Hierarchy and Data Security
 
 Setting|Coverage
